@@ -1,6 +1,3 @@
-/*
- * Client TCP - Compatibile Windows e UNIX (retrocompatibile C89)
- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
